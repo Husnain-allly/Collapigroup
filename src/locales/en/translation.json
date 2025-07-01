@@ -1,0 +1,325 @@
+{
+  "home": {
+    "section2": {
+      "heading": "Engineering Industrial Excellence",
+      "description": "COALPI GROUP combines decades of industrial expertise to deliver innovative solutions in mechanical processing, precision engineering, and integrated systems — turning complex challenges into sustainable results."
+    },
+    "section4": {
+      "heading": "About US",
+      "description": "CoalpiGroup S.p.A specializes in the global trade of high-performance steel/metals and electronics. With years of expertise and international reach, we deliver reliable, efficient, and tailor-made solutions for every industrial need.",
+      "button": "Read more"
+    },
+    "section5": {
+      "heading": "Our Services",
+      "description": "At CoalpiGroup, we offer tailored solutions, global logistics, and expert support for all industrial motor needs — from single-unit sales to full installations",
+      "button": "Read more"
+    }
+  },
+
+  "contact": {
+    "headquarter": "Headquarter:",
+    "headquarter_address": "VIA BORGHETTO 3, Milan IT",
+    "email": "Email:",
+    "email_customer": "info.coalpigroup@gmail.com (for customers)",
+    "email_pec": "coalpigroup@pec.it",
+    "phone": "Ph:",
+    "phone_number": "+39 392 353 0094",
+    "collab_note": "For new customers or collaborations:",
+    "email_collab": "info@coalpigroup.com",
+    "branch_prompt": "Are you looking for a branch, a service center or an agent?",
+    "branch_button": "Click Here",
+    "request_info": {
+      "heading": "Request information",
+      "description": "If you need any further information, please contact us via contact form.",
+      "name": "Name*",
+      "surname": "Surname*",
+      "email": "Email*",
+      "phone": "Phone*",
+      "request": "Request*",
+      "checkbox": "I read",
+      "privacy_policy": "Privacy Policy",
+      "checkbox_suffix": "and authorize IMS Technologies to use my personal data.",
+      "submit_button": "Send"
+    },
+    "footer": {
+      "group": "The Group",
+      "contact_us": "Contact us",
+      "our_mission": "Our Mission"
+    }
+  },
+  "services": {
+  "heading": "Our Products",
+  "description1": "At CoalpiGroup, we provide a wide range of high-quality electric motors and generators...",
+  "description2": "Explore our full range below — each product includes key applications and detailed features...",
+  "motor_section": "Electric Motors",
+  "products": {
+    "explosion_proof": "Explosion-Proof Motors",
+    "high_medium_voltage": "High and Medium Voltage Motors",
+    "smoke_extraction": "Smoke Extraction Motors",
+    "permanent_magnet": "Permanent Magnet Motors",
+    "standard_motor": "Standard Motors",
+    "dc_motor": "Direct Current (DC) Motors",
+    "single_phase": "Single-Phase Motors",
+    "synchronous_generator": "Synchronous Generators"
+  }
+},
+"about": {
+  "image1_alt": "Image 1 About Us",
+  "image2_alt": "Image 2 About Us",
+  "section_heading": "About us",
+  "proud": "PROUD TO BE COALPIGROUP",
+  "title": "COALPIGROUP",
+  "paragraph1": "CoalpiGroup S.r.l is a company specialized in the global trade of three-phase electric motors. With extensive experience and an international network of partners, we provide reliable, high-performance, and tailor-made solutions for every industrial need.",
+  "paragraph2": "Our mission is to deliver quality, efficiency, and innovation. We believe in a sustainable approach to strong growth and long-term partnerships.",
+  "paragraph3": "CoalpiGroup stands for professionalism and a global vision. Reliability and flexibility are the foundations of our team. Every day, we strive to enhance our offerings through innovation, making us your trusted partner worldwide.",
+  "cta_text": "Do you need more information?",
+  "cta_button": "Contact Us"
+},
+"application": {
+  "image1_alt": "Top Banner",
+  "image2_alt": "Application Areas",
+  "label": "Application",
+  "tagline": "Excellence in quality, innovation, technologies",
+  "heading": "Application Areas of Our Motors and Industrial Solutions",
+  "description1": "Our motors and systems are engineered to perform reliably across a broad spectrum of industrial environments. Whether in high-risk zones, energy-intensive plants, or demanding manufacturing lines, our solutions are designed to meet the specific challenges of each sector.",
+  "industries_title": "We proudly serve the following industries:",
+  "industries": [
+    { "label": "Miniere", "translation": "Mines" },
+    { "label": "Industrie Petrolchimiche", "translation": "Petrochemical Industries" },
+    { "label": "Oleodotti & Gasdotti", "translation": "Oil & Gas Pipelines" },
+    { "label": "Raffinerie", "translation": "Sugar Refineries" },
+    { "label": "Impianti di Generazione Elettrica", "translation": "Power Plants" },
+    { "label": "Impianti Trattamento Aria", "translation": "Air Treatment Systems" },
+    { "label": "Acciaierie", "translation": "Steel Mills" },
+    { "label": "Centrali Elettriche", "translation": "Power Plants" },
+    { "label": "Impianti Chimici", "translation": "Chemical Plants" },
+    { "label": "Impianti Cartari", "translation": "Paper Industry" },
+    { "label": "Industria Alimentare", "translation": "Food Industry" },
+    { "label": "Impianti di Cogenerazione", "translation": "Cogeneration Plants" }
+  ],
+  "description2": "Each of these sectors demands power, efficiency, and long-term reliability — values that are at the core of every solution we provide.",
+  "footer_title": "The Group",
+  "footer_contact": "Contact us",
+  "footer_mission": "Our Mission"
+},
+"footer": {
+  "company_name": "COALPI Industries",
+  "company_description": "Smart, connected automation systems tailored for modern industries.",
+  "email": "info@coalpi.com",
+  "phone": "+92 300 1234567",
+
+  "quick_links": {
+    "title": "Quick Links",
+    "about": "About Us",
+    "services": "Services",
+    "careers": "Careers",
+    "blog": "Blog"
+  },
+
+  "legal": {
+    "title": "Legal",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookies Declaration",
+    "ethics": "Code of Ethics",
+    "terms": "Terms of Service"
+  },
+
+  "connect_title": "Stay Connected",
+  "email_placeholder": "Your Email",
+  "signup": "Sign Up",
+
+  "copyright": "COALPI Industries. All rights reserved."
+},
+"mission": {
+  "image_alt": "Mission",
+  "title": "Our Mission",
+  "subtitle": "Excellence in quality, innovation, technologies",
+  "brand": "COALPIGROUP",
+  "para1": "is passionately dedicated to transforming the industrial sector, establishing itself as the undisputed leader in the design and production of three-phase electric motors. Our ambition is clear: to decisively expand our presence in emerging markets, dominating strategic sectors such as oil & gas and the water sector.",
+  "para2": "Our distinctiveness lies in the constant pursuit of excellence and the firm determination to overcome every obstacle. Our products not only meet the highest quality standards, but establish them. Our strength is the extraordinary ability to innovate and design with a versatility unique in our field.",
+  "para3": "Our promise is to offer products that not only meet, but exceed customer expectations, ensuring a quality/price ratio that outclasses the competition. We are driven by the vision of becoming not only partners, but promoters of global industrial progress. Join us in this adventure, where excellence is not just a goal, but our daily modus operandi.",
+  "cta_text": "Do you need more information?",
+  "cta_button": "Contact Us"
+},
+"navbar": {
+  "group": "The Group",
+  "about": "About Us",
+  "mission": "Mission",
+  "application": "Application",
+  "services": "Services",
+  "contacts": "Contacts"
+},
+"dc_motors": {
+  "banner_alt": "DC Motors Banner",
+  "tag": "Product",
+  "tagline": "Excellence in quality, innovation, technologies",
+  "title": "Direct Current (DC) Motors",
+  "motor_alt": "DC Motor",
+  "description": "Engineered for applications requiring precise control of speed and torque, DC motors are ideal for conveyor belts, automatic machines, and various industrial systems.",
+  "application_title": "Application Fields:",
+  "application_list": [
+    "Industrial automation systems",
+    "Railway and subway systems",
+    "Household appliances and portable equipment",
+    "Cranes and winches",
+    "Electric vehicles and forklifts",
+    "Assembly lines",
+    "Printing and packaging machines",
+    "Process controls with speed variations"
+  ],
+  "cta_title": "Contact Us for More Information",
+  "cta_button": "Contact us"
+},
+
+"explosion_proof": {
+  "banner_alt": "Explosion-Proof Motor Banner",
+  "tag": "Product",
+  "tagline": "Excellence in quality, innovation, technologies",
+  "title": "Explosion-Proof Motors",
+  "motor_alt": "Explosion-Proof Motor",
+  "description": "Ideal for environments at risk of explosion, these motors guarantee safety by preventing the ignition of flammable or combustible atmospheres. Built with certified enclosures and components, they ensure uninterrupted and secure operation in the most hazardous industrial settings.",
+  "application_title": "Application Fields:",
+  "application_list": [
+    "Petrochemical plants and refineries",
+    "Pharmaceutical industries",
+    "Underground mines and quarries",
+    "Painting and lacquering plants",
+    "Fuel and gas depots",
+    "Food industries with combustible dust (e.g., sugar, flour)",
+    "Fuel filling stations",
+    "Chemical and fertilizer plants"
+  ],
+  "cta_title": "Contact Us for More Information",
+  "cta_button": "Contact us"
+},
+"high_voltage": {
+  "banner_alt": "High and Medium Voltage Motor Banner",
+  "tag": "Product",
+  "tagline": "Excellence in quality, innovation, technologies",
+  "title": "High and Medium Voltage Motors",
+  "motor_alt": "High Voltage Motor",
+  "highlight": "Engineered for heavy-duty industrial environments,",
+  "description": "these motors deliver exceptional power, durability, and performance. Ideal for demanding applications, they ensure continuous operation under intense workloads and harsh conditions.",
+  "application_title": "Application Fields:",
+  "application_list": [
+    "Power plants",
+    "Steel mills and iron and steel plants",
+    "Wastewater treatment plants",
+    "Oil refineries",
+    "Cement industries and mines",
+    "High flow pumping systems",
+    "Large industrial compressors",
+    "High power production lines"
+  ],
+  "cta_title": "Contact Us for More Information",
+  "cta_button": "Contact us"
+},
+"permanent_magnet": {
+  "banner_alt": "Permanent Magnet Motor Banner",
+  "tag": "Product",
+  "tagline": "Excellence in quality, innovation, technologies",
+  "title": "Permanent Magnet Motors",
+  "title_prefix": "",
+  "title_suffix": "ermanent Magnet Motors",
+  "motor_alt": "Permanent Magnet Motor",
+  "description": "Highly efficient and reliable, these motors deliver excellent performance at low speeds and in variable speed systems. They are ideal for applications requiring superior energy savings and precise control.",
+  "application_title": "Application Fields:",
+  "application_list": [
+    "Elevators and escalators",
+    "High-efficiency HVAC systems",
+    "Wind turbines",
+    "Variable speed pumps",
+    "Intelligent conveyor belts",
+    "High energy efficiency naval applications"
+  ],
+  "cta_title": "Contact Us for More Information",
+  "cta_button": "Contact us"
+},
+"single_phase": {
+  "banner_alt": "Single-phase Motor Banner",
+  "tag": "Product",
+  "tagline": "Excellence in quality, innovation, technologies",
+  "title": "Single-phase Motors",
+  "motor_alt": "Single-phase Motor",
+  "description": "designed for residential and light commercial use, single-phase motors are ideal where a three-phase electrical supply is not available, offering reliable and efficient performance.",
+  "application_title": "Application Fields:",
+  "application_list": [
+    "Household appliances (washing machines, refrigerators, fans)",
+    "Well and irrigation pumps",
+    "Small/medium power air compressors",
+    "Light agricultural equipment",
+    "Small power tools",
+    "Automatic gates and shutters",
+    "Residential air conditioners",
+    "Laboratory or office machinery"
+  ],
+  "cta_title": "Contact Us for More Information",
+  "cta_button": "Contact us"
+},
+"smoke_extraction": {
+  "banner_alt": "Smoke Extraction Motor Banner",
+  "tag": "Product",
+  "tagline": "Excellence in quality, innovation, technologies",
+  "title": "Smoke Extraction Motors",
+  "motor_alt": "Smoke Extraction Motor",
+  "description": "designed to resist high temperatures, these motors are essential for evacuating smoke in industrial plants or during fire emergencies. They ensure reliable performance even in extreme conditions, safeguarding facilities and people.",
+  "application_title": "Application Fields:",
+  "application_list": [
+    "Fire protection systems in civil and industrial buildings",
+    "Highway and railway tunnels",
+    "Underground car parks",
+    "Airports and stations",
+    "Shopping centres and large public facilities",
+    "Industrial furnaces and high-temperature environments",
+    "Chemical laboratories"
+  ],
+  "cta_title": "Contact Us for More Information",
+  "cta_button": "Contact us"
+},
+"standard_motor": {
+  "banner_alt": "Standard Motors Banner",
+  "tag": "Product",
+  "tagline": "Excellence in quality, innovation, technologies",
+  "title": "Standard Motors",
+  "motor_alt": "Standard Motor",
+  "description": "Asynchronous motors designed for general use, offering versatility and dependable performance across a wide range of industrial applications.",
+  "application_title": "Application Fields:",
+  "application_list": [
+    "Conveyor belts",
+    "Industrial and domestic pumps",
+    "Fans and blowers",
+    "Compressors",
+    "Machine tools",
+    "Mixers and agitators",
+    "Lifting systems",
+    "General automation and production lines"
+  ],
+  "cta_title": "Contact Us for More Information",
+  "cta_button": "Contact us"
+},
+"synchronous_generator": {
+  "banner_alt": "Synchronous Generator Banner",
+  "tag": "Product",
+  "tagline": "Excellence in quality, innovation, technologies",
+  "title": "Synchronous Generators",
+  "motor_alt": "Synchronous Generator",
+  "description": "synchronous generators provide a constant frequency of electricity, making them ideal for use in power plants and backup systems where reliability and precision are essential.",
+  "application_title": "Application Fields:",
+  "application_list": [
+    "Power plants (hydroelectric, thermoelectric, nuclear)",
+    "Cogeneration systems",
+    "Renewable energy plants (wind, biomass)",
+    "Backup for hospitals and data centers",
+    "Ships and submarines",
+    "Industrial plants with their own energy production",
+    "High-precision grid stabilizers"
+  ],
+  "cta_title": "Contact Us for More Information",
+  "cta_button": "Contact us"
+}
+
+
+
+
+
+}

@@ -1,0 +1,152 @@
+variable
+let
+constant 
+
+what is declasred and undeclared
+
+var f = 10;  //declare 
+let m = 25;
+constant r =0;
+
+// undeclared variable
+ x= 15;
+ automatically
+ y =13;
+
+//uninitiallize
+var hello;
+//initialized variable
+var world = "hello";
+
+// Types of variables in JavaScrip
+ int, char, bool , string, float, double
+
+
+
+
+ Data Types
+
+let number = 10;           // Number
+let text = "Hello";        // String
+let isOnline = true;       // Boolean
+1.2 4.5 0.5 //float or double
+let character = 'A'/'a'     // Character
+let fruits = ["Apple", "Banana"];  // Array
+
+let whoisjoiningclass = 
+let user = {name: "Ali", age: 20}; // Object
+
+
+let whoisjoiningclass = [1,1,0,1,0,1,0,1,true,false]; // Array of numbers (binary representation)
+
+
+
+1,2,3,4,5,6,1009,8,4,5,5  //number
+
+i am students, //string  ""
+r = char
+0/1 true/false //boolean
+[1,2,3,4] //array  
+
+let mylearnersname = ["alyan is going to school", "uzma", "sitara"]  //string array
+let myNumbers = [1, 2, 3, 4, 5]; // Array of numbers 
+myNumbers[2] =3
+
+
+0,1,2,3,4,5,6
+
+
+ wepro = {
+    name: "John",
+    age: 30,
+    isStudent: true
+}; // Object with properties
+
+
+var y;
+var u =Null;
+
+
+
+var t =6;
+t=7;
+
+
+let fruits = ["apple", "banana", "mango"];
+console.log(fruits[0]); // Output: "apple"
+console.log(fruits[2]); // Output: "mango"
+
+fruits[1] = "banana'; //
+fruits[2] = "kiwi"; // Update the second element
+
+name = alyan
+x=3;
+x += 5;
+
+x -=6;
+x= x-6;
+
+
+
+
+x= x + 5; //8
+
+
+
+x =3; 
+let d; //undefined and uninitialized
+
+
+
+
+x=3, y=5;
+
+
+if (x > y)
+{
+    console.log("x is greater than y");
+} else if (x < y) {
+    console.log("x is less than y");
+} else {
+    console.log("x is equal to y");
+        }
+
+
+        <=
+
+        if(x <= y)
+        {
+            console.log("x is less than or equal to y");
+        } else {
+            console.log("x is greater than y");
+            }
+
+x=5, y=5;
+            if(x >= y)
+
+
+            if(x!=y)
+            {
+                console.log("x is not equal to y");
+            } else {
+                console.log("x is equal to y"); 
+            }
+
+
+x=5; y = '5'
+            x == y  false
+            
+
+
+            hello = true;
+            (!hello) = false;
+
+
+
+x=6;
+
+x++;
+x= x+1;
+
+x--;
+

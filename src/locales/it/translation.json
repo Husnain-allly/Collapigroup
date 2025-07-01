@@ -1,0 +1,324 @@
+{
+  "home": {
+    "section2": {
+      "heading": "Eccellenza Industriale nell'Ingegneria",
+      "description": "COALPI GROUP unisce decenni di esperienza industriale per offrire soluzioni innovative nella lavorazione meccanica, nell'ingegneria di precisione e nei sistemi integrati — trasformando sfide complesse in risultati sostenibili."
+    },
+    "section4": {
+      "heading": "Chi Siamo",
+      "description": "CoalpiGroup S.p.A è specializzata nel commercio globale di acciai/metalli ad alte prestazioni ed elettronica. Con anni di esperienza e una portata internazionale, offriamo soluzioni affidabili, efficienti e su misura per ogni esigenza industriale.",
+      "button": "Leggi di più"
+    },
+    "section5": {
+      "heading": "I Nostri Servizi",
+      "description": "In CoalpiGroup offriamo soluzioni su misura, logistica globale e supporto esperto per tutte le esigenze di motori industriali — dalla vendita di singole unità alle installazioni complete",
+      "button": "Leggi di più"
+    }
+  },
+  "contact": {
+    "headquarter": "Sede centrale:",
+    "headquarter_address": "VIA BORGHETTO 3, Milano IT",
+    "email": "Email:",
+    "email_customer": "info.coalpigroup@gmail.com (per i clienti)",
+    "email_pec": "coalpigroup@pec.it",
+    "phone": "Telefono:",
+    "phone_number": "+39 392 353 0094",
+    "collab_note": "Per nuovi clienti o collaborazioni:",
+    "email_collab": "info@coalpigroup.com",
+    "branch_prompt": "Stai cercando una filiale, un centro assistenza o un agente?",
+    "branch_button": "Clicca qui",
+    "request_info": {
+      "heading": "Richiedi informazioni",
+      "description": "Se hai bisogno di ulteriori informazioni, contattaci tramite il modulo di contatto.",
+      "name": "Nome*",
+      "surname": "Cognome*",
+      "email": "Email*",
+      "phone": "Telefono*",
+      "request": "Richiesta*",
+      "checkbox": "Ho letto",
+      "privacy_policy": "l'Informativa sulla Privacy",
+      "checkbox_suffix": "e autorizzo IMS Technologies all'uso dei miei dati personali.",
+      "submit_button": "Invia"
+    },
+    "footer": {
+      "group": "Il Gruppo",
+      "contact_us": "Contattaci",
+      "our_mission": "La Nostra Missione"
+    }
+  },
+  "services": {
+  "heading": "I Nostri Prodotti",
+  "description1": "In CoalpiGroup, offriamo una vasta gamma di motori elettrici e generatori di alta qualità...",
+  "description2": "Esplora la nostra gamma completa qui sotto — ogni prodotto include applicazioni chiave e funzionalità dettagliate...",
+  "motor_section": "Motori Elettrici",
+  "products": {
+    "explosion_proof": "Motori Antideflagranti",
+    "high_medium_voltage": "Motori ad Alta e Media Tensione",
+    "smoke_extraction": "Motori per Estrazione Fumi",
+    "permanent_magnet": "Motori a Magneti Permanenti",
+    "standard_motor": "Motori Standard",
+    "dc_motor": "Motori a Corrente Continua (DC)",
+    "single_phase": "Motori Monofase",
+    "synchronous_generator": "Generatori Sincroni"
+  }
+},
+"about": {
+  "image1_alt": "Immagine 1 Chi Siamo",
+  "image2_alt": "Immagine 2 Chi Siamo",
+  "section_heading": "Chi Siamo",
+  "proud": "ORGOGLOSI DI ESSERE COALPIGROUP",
+  "title": "COALPIGROUP",
+  "paragraph1": "CoalpiGroup S.r.l è un'azienda specializzata nel commercio globale di motori elettrici trifase. Con una vasta esperienza e una rete internazionale di partner, forniamo soluzioni affidabili, ad alte prestazioni e su misura per ogni esigenza industriale.",
+  "paragraph2": "La nostra missione è fornire qualità, efficienza e innovazione. Crediamo in un approccio sostenibile alla crescita forte e alle partnership a lungo termine.",
+  "paragraph3": "CoalpiGroup rappresenta la professionalità e una visione globale. Affidabilità e flessibilità sono le fondamenta del nostro team. Ogni giorno ci impegniamo a migliorare la nostra offerta attraverso l’innovazione, diventando il vostro partner di fiducia nel mondo.",
+  "cta_text": "Hai bisogno di ulteriori informazioni?",
+  "cta_button": "Contattaci"
+},
+"application": {
+  "image1_alt": "Banner Superiore",
+  "image2_alt": "Aree di Applicazione",
+  "label": "Applicazione",
+  "tagline": "Eccellenza in qualità, innovazione, tecnologie",
+  "heading": "Aree di Applicazione dei Nostri Motori e Soluzioni Industriali",
+  "description1": "I nostri motori e sistemi sono progettati per funzionare in modo affidabile in un ampio spettro di ambienti industriali. Che si tratti di zone ad alto rischio, impianti ad alta intensità energetica o linee di produzione complesse, le nostre soluzioni sono create per soddisfare le esigenze specifiche di ogni settore.",
+  "industries_title": "Siamo orgogliosi di servire le seguenti industrie:",
+  "industries": [
+    { "label": "Miniere", "translation": "Miniere" },
+    { "label": "Industrie Petrolchimiche", "translation": "Industrie Petrolchimiche" },
+    { "label": "Oleodotti & Gasdotti", "translation": "Oleodotti e Gasdotti" },
+    { "label": "Raffinerie", "translation": "Raffinerie" },
+    { "label": "Impianti di Generazione Elettrica", "translation": "Impianti di Generazione Elettrica" },
+    { "label": "Impianti Trattamento Aria", "translation": "Impianti Trattamento Aria" },
+    { "label": "Acciaierie", "translation": "Acciaierie" },
+    { "label": "Centrali Elettriche", "translation": "Centrali Elettriche" },
+    { "label": "Impianti Chimici", "translation": "Impianti Chimici" },
+    { "label": "Impianti Cartari", "translation": "Impianti Cartari" },
+    { "label": "Industria Alimentare", "translation": "Industria Alimentare" },
+    { "label": "Impianti di Cogenerazione", "translation": "Impianti di Cogenerazione" }
+  ],
+  "description2": "Ognuno di questi settori richiede potenza, efficienza e affidabilità a lungo termine — valori fondamentali in ogni nostra soluzione.",
+  "footer_title": "Il Gruppo",
+  "footer_contact": "Contattaci",
+  "footer_mission": "La Nostra Missione"
+},
+"footer": {
+  "company_name": "COALPI Industries",
+  "company_description": "Sistemi di automazione intelligenti e connessi per l'industria moderna.",
+  "email": "info@coalpi.com",
+  "phone": "+92 300 1234567",
+
+  "quick_links": {
+    "title": "Link Rapidi",
+    "about": "Chi Siamo",
+    "services": "Servizi",
+    "careers": "Carriere",
+    "blog": "Blog"
+  },
+
+  "legal": {
+    "title": "Legale",
+    "privacy": "Politica sulla Privacy",
+    "cookies": "Dichiarazione sui Cookie",
+    "ethics": "Codice Etico",
+    "terms": "Termini di Servizio"
+  },
+
+  "connect_title": "Resta Connesso",
+  "email_placeholder": "La tua email",
+  "signup": "Iscriviti",
+
+  "copyright": "COALPI Industries. Tutti i diritti riservati."
+},
+"mission": {
+  "image_alt": "Missione",
+  "title": "La nostra missione",
+  "subtitle": "Eccellenza in qualità, innovazione, tecnologie",
+  "brand": "COALPIGROUP",
+  "para1": "è appassionatamente dedicata alla trasformazione del settore industriale, affermandosi come leader indiscusso nella progettazione e produzione di motori elettrici trifase. La nostra ambizione è chiara: espandere decisamente la nostra presenza nei mercati emergenti, dominando settori strategici come l'oil & gas e il settore idrico.",
+  "para2": "La nostra distintività risiede nella costante ricerca dell'eccellenza e nella ferma determinazione a superare ogni ostacolo. I nostri prodotti non solo soddisfano i più alti standard di qualità, ma li stabiliscono. La nostra forza è l'eccezionale capacità di innovare e progettare con una versatilità unica nel nostro campo.",
+  "para3": "La nostra promessa è offrire prodotti che non solo soddisfano, ma superano le aspettative dei clienti, garantendo un rapporto qualità/prezzo che supera la concorrenza. Siamo guidati dalla visione di diventare non solo partner, ma promotori del progresso industriale globale. Unisciti a noi in questa avventura, dove l'eccellenza non è solo un obiettivo, ma il nostro modus operandi quotidiano.",
+  "cta_text": "Hai bisogno di maggiori informazioni?",
+  "cta_button": "Contattaci"
+},
+"navbar": {
+  "group": "Il Gruppo",
+  "about": "Chi Siamo",
+  "mission": "Missione",
+  "application": "Applicazione",
+  "services": "Servizi",
+  "contacts": "Contatti"
+},
+"dc_motors": {
+  "banner_alt": "Banner dei Motori DC",
+  "tag": "Prodotto",
+  "tagline": "Eccellenza in qualità, innovazione, tecnologie",
+  "title": "Motori a Corrente Continua (DC)",
+  "motor_alt": "Motore DC",
+  "description": "Progettati per applicazioni che richiedono un controllo preciso della velocità e della coppia, i motori DC sono ideali per nastri trasportatori, macchine automatiche e vari sistemi industriali.",
+  "application_title": "Campi di applicazione:",
+  "application_list": [
+    "Sistemi di automazione industriale",
+    "Sistemi ferroviari e metropolitani",
+    "Elettrodomestici e apparecchiature portatili",
+    "Gru e argani",
+    "Veicoli elettrici e carrelli elevatori",
+    "Linee di assemblaggio",
+    "Macchine per stampa e imballaggio",
+    "Controlli di processo con variazioni di velocità"
+  ],
+  "cta_title": "Contattaci per maggiori informazioni",
+  "cta_button": "Contattaci"
+},
+"explosion_proof": {
+  "banner_alt": "Banner Motori Antideflagranti",
+  "tag": "Prodotto",
+  "tagline": "Eccellenza in qualità, innovazione, tecnologie",
+  "title": "Motori Antideflagranti",
+  "motor_alt": "Motore Antideflagrante",
+  "description": "Ideali per ambienti a rischio di esplosione, questi motori garantiscono la sicurezza prevenendo l'accensione di atmosfere infiammabili o combustibili. Costruiti con involucri e componenti certificati, assicurano un funzionamento continuo e sicuro nei contesti industriali più pericolosi.",
+  "application_title": "Campi di Applicazione:",
+  "application_list": [
+    "Impianti petrolchimici e raffinerie",
+    "Industrie farmaceutiche",
+    "Miniere sotterranee e cave",
+    "Impianti di verniciatura e laccatura",
+    "Depositi di carburante e gas",
+    "Industrie alimentari con polveri combustibili (es. zucchero, farina)",
+    "Stazioni di rifornimento",
+    "Impianti chimici e di fertilizzanti"
+  ],
+  "cta_title": "Contattaci per Maggiori Informazioni",
+  "cta_button": "Contattaci"
+},
+"high_voltage": {
+  "banner_alt": "Banner Motori ad Alta e Media Tensione",
+  "tag": "Prodotto",
+  "tagline": "Eccellenza in qualità, innovazione, tecnologie",
+  "title": "Motori ad Alta e Media Tensione",
+  "motor_alt": "Motore ad Alta Tensione",
+  "highlight": "Progettati per ambienti industriali gravosi,",
+  "description": "questi motori offrono potenza, durata e prestazioni eccezionali. Ideali per applicazioni esigenti, garantiscono un funzionamento continuo anche sotto carichi intensi e condizioni difficili.",
+  "application_title": "Campi di Applicazione:",
+  "application_list": [
+    "Centrali elettriche",
+    "Acciaierie e impianti siderurgici",
+    "Impianti di trattamento acque reflue",
+    "Raffinerie di petrolio",
+    "Industrie del cemento e miniere",
+    "Sistemi di pompaggio ad alto flusso",
+    "Grandi compressori industriali",
+    "Linee di produzione ad alta potenza"
+  ],
+  "cta_title": "Contattaci per Maggiori Informazioni",
+  "cta_button": "Contattaci"
+},
+"permanent_magnet": {
+  "banner_alt": "Banner Motore a Magneti Permanenti",
+  "tag": "Prodotto",
+  "tagline": "Eccellenza in qualità, innovazione, tecnologie",
+  "title": "Motori a Magneti Permanenti",
+  "title_prefix": "",
+  "title_suffix": "otori a Magneti Permanenti",
+  "motor_alt": "Motore a Magneti Permanenti",
+  "description": "Altamente efficienti e affidabili, questi motori offrono eccellenti prestazioni a basse velocità e nei sistemi a velocità variabile. Sono ideali per applicazioni che richiedono risparmio energetico e controllo preciso.",
+  "application_title": "Campi di Applicazione:",
+  "application_list": [
+    "Ascensori e scale mobili",
+    "Sistemi HVAC ad alta efficienza",
+    "Turbine eoliche",
+    "Pompe a velocità variabile",
+    "Nastri trasportatori intelligenti",
+    "Applicazioni navali ad alta efficienza energetica"
+  ],
+  "cta_title": "Contattaci per Maggiori Informazioni",
+  "cta_button": "Contattaci"
+},
+"single_phase": {
+  "banner_alt": "Banner Motori Monofase",
+  "tag": "Prodotto",
+  "tagline": "Eccellenza in qualità, innovazione, tecnologie",
+  "title": "Motori Monofase",
+  "motor_alt": "Motore Monofase",
+  "description": "progettati per uso residenziale e commerciale leggero, sono ideali dove non è disponibile una fornitura trifase, offrendo prestazioni affidabili ed efficienti.",
+  "application_title": "Campi di Applicazione:",
+  "application_list": [
+    "Elettrodomestici (lavatrici, frigoriferi, ventilatori)",
+    "Pompe per pozzi e irrigazione",
+    "Compressori d'aria di media potenza",
+    "Attrezzature agricole leggere",
+    "Utensili elettrici di piccola potenza",
+    "Cancelli e tapparelle automatiche",
+    "Condizionatori residenziali",
+    "Macchinari da laboratorio o ufficio"
+  ],
+  "cta_title": "Contattaci per Maggiori Informazioni",
+  "cta_button": "Contattaci"
+},
+"smoke_extraction": {
+  "banner_alt": "Banner Motore Estrazione Fumo",
+  "tag": "Prodotto",
+  "tagline": "Eccellenza in qualità, innovazione, tecnologie",
+  "title": "Motori per Estrazione di Fumo",
+  "motor_alt": "Motore Estrazione Fumo",
+  "description": "progettati per resistere ad alte temperature, questi motori sono essenziali per evacuare il fumo negli impianti industriali o durante emergenze incendio. Garantiscono prestazioni affidabili anche in condizioni estreme, proteggendo strutture e persone.",
+  "application_title": "Campi di Applicazione:",
+  "application_list": [
+    "Sistemi antincendio in edifici civili e industriali",
+    "Gallerie autostradali e ferroviarie",
+    "Parcheggi sotterranei",
+    "Aeroporti e stazioni",
+    "Centri commerciali e grandi strutture pubbliche",
+    "Forni industriali e ambienti ad alta temperatura",
+    "Laboratori chimici"
+  ],
+  "cta_title": "Contattaci per Maggiori Informazioni",
+  "cta_button": "Contattaci"
+},
+"standard_motor": {
+  "banner_alt": "Banner Motori Standard",
+  "tag": "Prodotto",
+  "tagline": "Eccellenza in qualità, innovazione, tecnologie",
+  "title": "Motori Standard",
+  "motor_alt": "Motore Standard",
+  "description": "Motori asincroni progettati per uso generale, offrono versatilità e prestazioni affidabili in un'ampia gamma di applicazioni industriali.",
+  "application_title": "Campi di Applicazione:",
+  "application_list": [
+    "Nastri trasportatori",
+    "Pompe industriali e domestiche",
+    "Ventilatori ed estrattori",
+    "Compressori",
+    "Macchine utensili",
+    "Miscelatori e agitatori",
+    "Sistemi di sollevamento",
+    "Automazione generale e linee di produzione"
+  ],
+  "cta_title": "Contattaci per Maggiori Informazioni",
+  "cta_button": "Contattaci"
+},
+"synchronous_generator": {
+  "banner_alt": "Banner Generatori Sincroni",
+  "tag": "Prodotto",
+  "tagline": "Eccellenza in qualità, innovazione, tecnologie",
+  "title": "Generatori Sincroni",
+  "motor_alt": "Generatore Sincrono",
+  "description": "i generatori sincroni forniscono una frequenza costante di elettricità, rendendoli ideali per l'uso in centrali elettriche e sistemi di backup dove affidabilità e precisione sono essenziali.",
+  "application_title": "Campi di Applicazione:",
+  "application_list": [
+    "Centrali elettriche (idroelettriche, termoelettriche, nucleari)",
+    "Sistemi di cogenerazione",
+    "Impianti di energia rinnovabile (eolico, biomassa)",
+    "Backup per ospedali e data center",
+    "Navi e sottomarini",
+    "Impianti industriali con produzione autonoma di energia",
+    "Stabilizzatori di rete ad alta precisione"
+  ],
+  "cta_title": "Contattaci per Maggiori Informazioni",
+  "cta_button": "Contattaci"
+}
+
+
+
+
+
+
+}
