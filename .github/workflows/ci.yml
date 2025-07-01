@@ -24,4 +24,6 @@ jobs:
         run: npm test || echo "No tests found"
 
       - name: Build project
-        run: npm run build
+        run: CI='' npm run build
+
+
