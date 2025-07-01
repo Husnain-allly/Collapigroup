@@ -4,7 +4,6 @@ import FromUsImage from '../Pictures/Home-1.png';
 import EngineeringBg from '../Pictures/Home-2.png';
 import GreenSection from '../Pictures/Home-3.png';
 import ServicesBg from '../Pictures/Home-4.png';
-import Footer from '../Components/Footer';
 import { useTranslation } from 'react-i18next';
 
 const Home = () => {

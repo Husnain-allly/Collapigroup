@@ -19,27 +19,7 @@ const Footer = () => {
           </div>
         </div>
 
-        {/* Navigation Links */}
-        <div>
-          <h3 className="text-lg font-semibold mb-3">{t('footer.quick_links.title')}</h3>
-          <ul className="space-y-2 text-sm">
-            <li><a href="#" className="hover:underline">{t('footer.quick_links.about')}</a></li>
-            <li><a href="#" className="hover:underline">{t('footer.quick_links.services')}</a></li>
-            <li><a href="#" className="hover:underline">{t('footer.quick_links.careers')}</a></li>
-            <li><a href="#" className="hover:underline">{t('footer.quick_links.blog')}</a></li>
-          </ul>
-        </div>
-
-        {/* Legal Section */}
-        <div>
-          <h3 className="text-lg font-semibold mb-3">{t('footer.legal.title')}</h3>
-          <ul className="space-y-2 text-sm">
-            <li><a href="#" className="hover:underline">{t('footer.legal.privacy')}</a></li>
-            <li><a href="#" className="hover:underline">{t('footer.legal.cookies')}</a></li>
-            <li><a href="#" className="hover:underline">{t('footer.legal.ethics')}</a></li>
-            <li><a href="#" className="hover:underline">{t('footer.legal.terms')}</a></li>
-          </ul>
-        </div>
+      
 
         {/* Newsletter & Socials */}
         <div>
