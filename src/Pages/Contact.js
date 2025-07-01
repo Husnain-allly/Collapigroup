@@ -73,13 +73,6 @@ const Contact = () => {
               <input name="phone" type="tel" placeholder={t('contact.request_info.phone')} className="border p-2 w-full" required />
             </div>
             <textarea name="message" placeholder={t('contact.request_info.request')} className="border p-2 w-full h-32" required></textarea>
-            <div className="flex items-start gap-2 text-sm">
-              <input type="checkbox" required />
-              <label>
-                {t('contact.request_info.checkbox')}{' '}
-                <a href="#" className="text-blue-700 underline">{t('contact.request_info.privacy_policy')}</a>, {t('contact.request_info.checkbox_suffix')}
-              </label>
-            </div>
             <button type="submit" className="bg-blue-800 text-white px-6 py-2 rounded hover:bg-blue-900 transition">
               {t('contact.request_info.submit_button')}
             </button>
