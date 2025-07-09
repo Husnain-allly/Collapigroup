@@ -13,13 +13,18 @@ const Footer = () => {
         <div>
           <h3 className="text-lg font-semibold mb-3">{t('footer.company_name')}</h3>
           <p className="text-sm">{t('footer.company_description')}</p>
-          <div className="mt-4 text-sm">
-            <p className="flex items-center gap-2"><FaEnvelope /> {t('footer.email')}</p>
-            <p className="flex items-center gap-2 mt-2"><FaPhoneAlt /> {t('footer.phone')}</p>
+          <div className="mt-4 text-sm space-y-2">
+            <p className="flex items-center gap-2">
+              <FaEnvelope /> infocoalpigroup@gmail.com
+            </p>
+            <p className="flex items-center gap-2">
+              <FaPhoneAlt /> +39 345 402 0222 (Alex)
+            </p>
+            <p className="flex items-center gap-2">
+              <FaPhoneAlt /> +39 351 723 6664 (Mario)
+            </p>
           </div>
         </div>
-
-      
 
         {/* Newsletter & Socials */}
         <div>

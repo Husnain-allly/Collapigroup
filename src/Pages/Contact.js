@@ -39,20 +39,20 @@ const Contact = () => {
 
       {/* Contact Info Section */}
       <section className="bg-blue-900 text-white p-4 text-sm sm:text-base">
-        <div className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div>
-            <p><strong>{t('contact.headquarter')}</strong> {t('contact.headquarter_address')}</p>
-            <p><strong>{t('contact.email')}</strong></p>
-            <p>{t('contact.email_customer')}</p>
-            <p>{t('contact.email_pec')}</p>
-          </div>
-          <div>
-            <p><strong>{t('contact.phone')}</strong> {t('contact.phone_number')}</p>
-            <p><strong>{t('contact.collab_note')}</strong></p>
-            <p>{t('contact.email_collab')}</p>
-          </div>
-        </div>
-      </section>
+  <div className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-4">
+    <div>
+      <p><strong>{t('contact.headquarter')}</strong> {t('contact.headquarter_address')}</p>
+      <p><strong>Email:</strong></p>
+      <p>infocoalpigroup@gmail.com</p>
+    </div>
+    <div>
+      <p><strong>Phone:</strong></p>
+      <p>+39 345 402 0222 (Alex)</p>
+      <p>+39 351 723 6664 (Mario)</p>
+    </div>
+  </div>
+</section>
+
 
       {/* Branch Prompt */}
       <section className="bg-gray-100 py-4 px-6 text-center">
