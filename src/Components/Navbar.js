@@ -52,16 +52,17 @@ const Navbar = () => {
             </button>
 
             <div className="absolute hidden group-hover:block bg-white shadow-lg border mt-1 rounded z-50">
-              <a href="/aboutus" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
-                {t('navbar.about')}
-              </a>
-              <a href="/ourmission" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
-                {t('navbar.mission')}
-              </a>
-              <a href="/application" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
-                {t('navbar.application')}
-              </a>
-            </div>
+  <Link to="/aboutus" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+    {t('navbar.about')}
+  </Link>
+  <Link to="/ourmission" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+    {t('navbar.mission')}
+  </Link>
+  <Link to="/application" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+    {t('navbar.application')}
+  </Link>
+</div>
+
           </div>
 
           {/* Other Pages */}
