@@ -1,17 +1,17 @@
 {
-  "home": {
+ "home": {
     "section2": {
       "heading": "Eccellenza Industriale nell'Ingegneria",
       "description": "COALPI GROUP unisce decenni di esperienza industriale per offrire soluzioni innovative nella lavorazione meccanica, nell'ingegneria di precisione e nei sistemi integrati — trasformando sfide complesse in risultati sostenibili."
     },
     "section4": {
       "heading": "Chi Siamo",
-      "description": "CoalpiGroup S.p.A è specializzata nel commercio globale di acciai/metalli ad alte prestazioni ed elettronica. Con anni di esperienza e una portata internazionale, offriamo soluzioni affidabili, efficienti e su misura per ogni esigenza industriale.",
+      "description": "CoalpiGroupsrl S.p.A è specializzata nel commercio globale di acciai/metalli ad alte prestazioni ed elettronica. Con anni di esperienza e una portata internazionale, offriamo soluzioni affidabili, efficienti e su misura per ogni esigenza industriale.",
       "button": "Leggi di più"
     },
     "section5": {
       "heading": "I Nostri Servizi",
-      "description": "In CoalpiGroup offriamo soluzioni su misura, logistica globale e supporto esperto per tutte le esigenze di motori industriali — dalla vendita di singole unità alle installazioni complete",
+      "description": "In CoalpiGroupsrl offriamo soluzioni su misura, logistica globale e supporto esperto per tutte le esigenze di motori industriali — dalla vendita di singole unità alle installazioni complete",
       "button": "Leggi di più"
     }
   },
@@ -19,12 +19,12 @@
     "headquarter": "Sede centrale:",
     "headquarter_address": "VIA BORGHETTO 3, Milano IT",
     "email": "Email:",
-    "email_customer": "info.coalpigroup@gmail.com (per i clienti)",
-    "email_pec": "coalpigroup@pec.it",
+    "email_customer": "info.coalpigroupsrl@gmail.com (per i clienti)",
+    "email_pec": "coalpigroupsrl@pec.it",
     "phone": "Telefono:",
     "phone_number": "+39 392 353 0094",
     "collab_note": "Per nuovi clienti o collaborazioni:",
-    "email_collab": "info@coalpigroup.com",
+    "email_collab": "info@coalpigroupsrl.com",
     "branch_prompt": "Stai cercando una filiale, un centro assistenza o un agente?",
     "branch_button": "Clicca qui",
     "request_info": {
@@ -47,99 +47,44 @@
     }
   },
   "services": {
-  "heading": "I Nostri Prodotti",
-  "description1": "In CoalpiGroup, offriamo una vasta gamma di motori elettrici e generatori di alta qualità...",
-  "description2": "Esplora la nostra gamma completa qui sotto — ogni prodotto include applicazioni chiave e funzionalità dettagliate...",
-  "motor_section": "Motori Elettrici",
-  "products": {
-    "explosion_proof": "Motori Antideflagranti",
-    "high_medium_voltage": "Motori ad Alta e Media Tensione",
-    "smoke_extraction": "Motori per Estrazione Fumi",
-    "permanent_magnet": "Motori a Magneti Permanenti",
-    "standard_motor": "Motori Standard",
-    "dc_motor": "Motori a Corrente Continua (DC)",
-    "single_phase": "Motori Monofase",
-    "synchronous_generator": "Generatori Sincroni"
-  }
-},
-"about": {
-  "image1_alt": "Immagine 1 Chi Siamo",
-  "image2_alt": "Immagine 2 Chi Siamo",
-  "section_heading": "Chi Siamo",
-  "proud": "ORGOGLOSI DI ESSERE COALPIGROUP",
-  "title": "COALPIGROUP",
-  "paragraph1": "CoalpiGroup S.r.l è un'azienda specializzata nel commercio globale di motori elettrici trifase. Con una vasta esperienza e una rete internazionale di partner, forniamo soluzioni affidabili, ad alte prestazioni e su misura per ogni esigenza industriale.",
-  "paragraph2": "La nostra missione è fornire qualità, efficienza e innovazione. Crediamo in un approccio sostenibile alla crescita forte e alle partnership a lungo termine.",
-  "paragraph3": "CoalpiGroup rappresenta la professionalità e una visione globale. Affidabilità e flessibilità sono le fondamenta del nostro team. Ogni giorno ci impegniamo a migliorare la nostra offerta attraverso l’innovazione, diventando il vostro partner di fiducia nel mondo.",
-  "cta_text": "Hai bisogno di ulteriori informazioni?",
-  "cta_button": "Contattaci"
-},
-"application": {
-  "image1_alt": "Banner Superiore",
-  "image2_alt": "Aree di Applicazione",
-  "label": "Applicazione",
-  "tagline": "Eccellenza in qualità, innovazione, tecnologie",
-  "heading": "Aree di Applicazione dei Nostri Motori e Soluzioni Industriali",
-  "description1": "I nostri motori e sistemi sono progettati per funzionare in modo affidabile in un ampio spettro di ambienti industriali. Che si tratti di zone ad alto rischio, impianti ad alta intensità energetica o linee di produzione complesse, le nostre soluzioni sono create per soddisfare le esigenze specifiche di ogni settore.",
-  "industries_title": "Siamo orgogliosi di servire le seguenti industrie:",
-  "industries": [
-    { "label": "Miniere", "translation": "Miniere" },
-    { "label": "Industrie Petrolchimiche", "translation": "Industrie Petrolchimiche" },
-    { "label": "Oleodotti & Gasdotti", "translation": "Oleodotti e Gasdotti" },
-    { "label": "Raffinerie", "translation": "Raffinerie" },
-    { "label": "Impianti di Generazione Elettrica", "translation": "Impianti di Generazione Elettrica" },
-    { "label": "Impianti Trattamento Aria", "translation": "Impianti Trattamento Aria" },
-    { "label": "Acciaierie", "translation": "Acciaierie" },
-    { "label": "Centrali Elettriche", "translation": "Centrali Elettriche" },
-    { "label": "Impianti Chimici", "translation": "Impianti Chimici" },
-    { "label": "Impianti Cartari", "translation": "Impianti Cartari" },
-    { "label": "Industria Alimentare", "translation": "Industria Alimentare" },
-    { "label": "Impianti di Cogenerazione", "translation": "Impianti di Cogenerazione" }
-  ],
-  "description2": "Ognuno di questi settori richiede potenza, efficienza e affidabilità a lungo termine — valori fondamentali in ogni nostra soluzione.",
-  "footer_title": "Il Gruppo",
-  "footer_contact": "Contattaci",
-  "footer_mission": "La Nostra Missione"
-},
-"footer": {
-  "company_name": "COALPI Industries",
-  "company_description": "Sistemi di automazione intelligenti e connessi per l'industria moderna.",
-  "email": "info@coalpi.com",
-  "phone": "+92 300 1234567",
-
-  "quick_links": {
-    "title": "Link Rapidi",
-    "about": "Chi Siamo",
-    "services": "Servizi",
-    "careers": "Carriere",
-    "blog": "Blog"
+    "heading": "I Nostri Prodotti",
+    "description1": "In CoalpiGroupsrl, offriamo una vasta gamma di motori elettrici e generatori di alta qualità...",
+    "description2": "Esplora la nostra gamma completa qui sotto — ogni prodotto include applicazioni chiave e funzionalità dettagliate...",
+    "motor_section": "Motori Elettrici",
+    "products": {
+      "explosion_proof": "Motori Antideflagranti",
+      "high_medium_voltage": "Motori ad Alta e Media Tensione",
+      "smoke_extraction": "Motori per Estrazione Fumi",
+      "permanent_magnet": "Motori a Magneti Permanenti",
+      "standard_motor": "Motori Standard",
+      "dc_motor": "Motori a Corrente Continua (DC)",
+      "single_phase": "Motori Monofase",
+      "synchronous_generator": "Generatori Sincroni"
+    }
   },
-
-  "legal": {
-    "title": "Legale",
-    "privacy": "Politica sulla Privacy",
-    "cookies": "Dichiarazione sui Cookie",
-    "ethics": "Codice Etico",
-    "terms": "Termini di Servizio"
+  "about": {
+    "image1_alt": "Immagine 1 Chi Siamo",
+    "image2_alt": "Immagine 2 Chi Siamo",
+    "section_heading": "Chi Siamo",
+    "proud": "ORGOGLOSI DI ESSERE COALPIGROUPSRL",
+    "title": "COALPIGROUPSRL",
+    "paragraph1": "CoalpiGroupsrl è un'azienda specializzata nel commercio globale di motori elettrici trifase. Con una vasta esperienza e una rete internazionale di partner, forniamo soluzioni affidabili, ad alte prestazioni e su misura per ogni esigenza industriale.",
+    "paragraph2": "La nostra missione è fornire qualità, efficienza e innovazione. Crediamo in un approccio sostenibile alla crescita forte e alle partnership a lungo termine.",
+    "paragraph3": "CoalpiGroupsrl rappresenta la professionalità e una visione globale. Affidabilità e flessibilità sono le fondamenta del nostro team. Ogni giorno ci impegniamo a migliorare la nostra offerta attraverso l’innovazione, diventando il vostro partner di fiducia nel mondo.",
+    "cta_text": "Hai bisogno di ulteriori informazioni?",
+    "cta_button": "Contattaci"
   },
-
-  "connect_title": "Resta Connesso",
-  "email_placeholder": "La tua email",
-  "signup": "Iscriviti",
-
-  "copyright": "COALPI Industries. Tutti i diritti riservati."
-},
-"mission": {
-  "image_alt": "Missione",
-  "title": "La nostra missione",
-  "subtitle": "Eccellenza in qualità, innovazione, tecnologie",
-  "brand": "COALPIGROUP",
-  "para1": "è appassionatamente dedicata alla trasformazione del settore industriale, affermandosi come leader indiscusso nella progettazione e produzione di motori elettrici trifase. La nostra ambizione è chiara: espandere decisamente la nostra presenza nei mercati emergenti, dominando settori strategici come l'oil & gas e il settore idrico.",
-  "para2": "La nostra distintività risiede nella costante ricerca dell'eccellenza e nella ferma determinazione a superare ogni ostacolo. I nostri prodotti non solo soddisfano i più alti standard di qualità, ma li stabiliscono. La nostra forza è l'eccezionale capacità di innovare e progettare con una versatilità unica nel nostro campo.",
-  "para3": "La nostra promessa è offrire prodotti che non solo soddisfano, ma superano le aspettative dei clienti, garantendo un rapporto qualità/prezzo che supera la concorrenza. Siamo guidati dalla visione di diventare non solo partner, ma promotori del progresso industriale globale. Unisciti a noi in questa avventura, dove l'eccellenza non è solo un obiettivo, ma il nostro modus operandi quotidiano.",
-  "cta_text": "Hai bisogno di maggiori informazioni?",
-  "cta_button": "Contattaci"
-},
+  "mission": {
+    "image_alt": "Missione",
+    "title": "La nostra missione",
+    "subtitle": "Eccellenza in qualità, innovazione, tecnologie",
+    "brand": "COALPIGROUPSRL",
+    "para1": "è appassionatamente dedicata alla trasformazione del settore industriale, affermandosi come leader indiscusso nella progettazione e produzione di motori elettrici trifase. La nostra ambizione è chiara: espandere decisamente la nostra presenza nei mercati emergenti, dominando settori strategici come l'oil & gas e il settore idrico.",
+    "para2": "La nostra distintività risiede nella costante ricerca dell'eccellenza e nella ferma determinazione a superare ogni ostacolo. I nostri prodotti non solo soddisfano i più alti standard di qualità, ma li stabiliscono. La nostra forza è l'eccezionale capacità di innovare e progettare con una versatilità unica nel nostro campo.",
+    "para3": "La nostra promessa è offrire prodotti che non solo soddisfano, ma superano le aspettative dei clienti, garantendo un rapporto qualità/prezzo che supera la concorrenza. Siamo guidati dalla visione di diventare non solo partner, ma promotori del progresso industriale globale. Unisciti a noi in questa avventura, dove l'eccellenza non è solo un obiettivo, ma il nostro modus operandi quotidiano.",
+    "cta_text": "Hai bisogno di maggiori informazioni?",
+    "cta_button": "Contattaci"
+  },
 "navbar": {
   "group": "Il Gruppo",
   "about": "Chi Siamo",

@@ -1,17 +1,17 @@
 {
-  "home": {
+   "home": {
     "section2": {
       "heading": "Engineering Industrial Excellence",
       "description": "COALPI GROUP combines decades of industrial expertise to deliver innovative solutions in mechanical processing, precision engineering, and integrated systems — turning complex challenges into sustainable results."
     },
     "section4": {
       "heading": "About US",
-      "description": "CoalpiGroup S.p.A specializes in the global trade of high-performance steel/metals and electronics. With years of expertise and international reach, we deliver reliable, efficient, and tailor-made solutions for every industrial need.",
+      "description": "Coalpigroupsrl specializes in the global trade of high-performance steel/metals and electronics. With years of expertise and international reach, we deliver reliable, efficient, and tailor-made solutions for every industrial need.",
       "button": "Read more"
     },
     "section5": {
       "heading": "Our Services",
-      "description": "At CoalpiGroup, we offer tailored solutions, global logistics, and expert support for all industrial motor needs — from single-unit sales to full installations",
+      "description": "At Coalpigroupsrl, we offer tailored solutions, global logistics, and expert support for all industrial motor needs — from single-unit sales to full installations",
       "button": "Read more"
     }
   },
@@ -49,7 +49,7 @@
   },
   "services": {
   "heading": "Our Products",
-  "description1": "At CoalpiGroup, we provide a wide range of high-quality electric motors and generators...",
+   "description1": "At Coalpigroupsrl, we provide a wide range of high-quality electric motors and generators...",
   "description2": "Explore our full range below — each product includes key applications and detailed features...",
   "motor_section": "Electric Motors",
   "products": {
@@ -64,17 +64,17 @@
   }
 },
 "about": {
-  "image1_alt": "Image 1 About Us",
-  "image2_alt": "Image 2 About Us",
-  "section_heading": "About us",
-  "proud": "PROUD TO BE COALPIGROUP",
-  "title": "COALPIGROUP",
-  "paragraph1": "CoalpiGroup S.r.l is a company specialized in the global trade of three-phase electric motors. With extensive experience and an international network of partners, we provide reliable, high-performance, and tailor-made solutions for every industrial need.",
-  "paragraph2": "Our mission is to deliver quality, efficiency, and innovation. We believe in a sustainable approach to strong growth and long-term partnerships.",
-  "paragraph3": "CoalpiGroup stands for professionalism and a global vision. Reliability and flexibility are the foundations of our team. Every day, we strive to enhance our offerings through innovation, making us your trusted partner worldwide.",
-  "cta_text": "Do you need more information?",
-  "cta_button": "Contact Us"
-},
+    "image1_alt": "Image 1 About Us",
+    "image2_alt": "Image 2 About Us",
+    "section_heading": "About us",
+    "proud": "PROUD TO BE COALPIGROUP",
+    "title": "COALPIGROUP",
+    "paragraph1": "Coalpigroupsrl is a company specialized in the global trade of three-phase electric motors. With extensive experience and an international network of partners, we provide reliable, high-performance, and tailor-made solutions for every industrial need.",
+    "paragraph2": "Our mission is to deliver quality, efficiency, and innovation. We believe in a sustainable approach to strong growth and long-term partnerships.",
+    "paragraph3": "Coalpigroupsrl stands for professionalism and a global vision. Reliability and flexibility are the foundations of our team. Every day, we strive to enhance our offerings through innovation, making us your trusted partner worldwide.",
+    "cta_text": "Do you need more information?",
+    "cta_button": "Contact Us"
+  },
 "application": {
   "image1_alt": "Top Banner",
   "image2_alt": "Application Areas",
