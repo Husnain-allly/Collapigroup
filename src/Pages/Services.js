@@ -21,8 +21,8 @@ const Services = () => {
     { name: t('services.products.smoke_extraction'), image: SmokeExtraction, path: '/SmokeExtractionMotor' },
     { name: t('services.products.permanent_magnet'), image: PermanentMagnet, path: '/PermanentMagnetMotor' },
     { name: t('services.products.standard_motor'), image: StandardMotor, path: '/StandardMotors' },
-    { name: t('services.products.dc_motor'), image: DCMotor, path: '/DCMotors' },
-    { name: t('services.products.single_phase'), image: SinglePhase, path: '/SinglePhaseMotor' },
+    { name: t('services.products.dc_motor'), image: SinglePhase, path: '/DCMotors' },
+    { name: t('services.products.single_phase'), image: DCMotor, path: '/SinglePhaseMotor' },
     { name: t('services.products.synchronous_generator'), image: SynchronousGenerator, path: '/SynchronousGenerators' },
   ];
 
