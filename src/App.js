@@ -35,7 +35,7 @@ function App() {
            <Route path="/StandardMotors" element={<StandardMotors/>} />
             <Route path="/DCMotors" element={<DCMotors/>} />
            <Route path="/SinglePhaseMotor" element={<SinglePhaseMotor/>} />
-     <Route path="/SynchronousGenerators" element={<Synchronousgenerator/>} />
+          <Route path="/SynchronousGenerators" element={<Synchronousgenerator/>} />
 
       </Routes>
       <Footer />
